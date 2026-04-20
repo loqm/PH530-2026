@@ -21,3 +21,6 @@ Each notebook in the repository is numerically mapped to a specific research pap
 | `7.ipynb` | [Fast quantum interferometry at the nanometer and attosecond scales with energy-entangled photons](https://www.science.org/doi/10.1126/sciadv.adw4938) |
 | `8.ipynb` | [Single-photon advantage in quantum cryptography beyond QKD](https://www.nature.com/articles/s41467-026-699) |
 | `9.ipynb` | [Quantum phase-sensitive diffraction and imaging using entangled photons](https://doi.org/10.1073/pnas.1904839116) |
+
+
+## TA and student generated (informal) lecture notes are here:
