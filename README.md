@@ -1,6 +1,10 @@
 # PH530 - 2026 | Light Matter Interaction
 
+## Professor Anshuman Kumar, Physics Department, IIT Bombay
+
 This repository contains Jupyter Notebooks (.ipynb) based on key research papers in quantum optics, quantum cryptography, and related phenomena. These topics were studied intensively and reproduced by students who took the course PH530 in the Spring semester of the academic year 2025-26.
+
+A YouTube playlist where each student group explains their work is available here: https://www.youtube.com/watch?v=imjx7QPdEt8&list=PLBAf4P2YTnSW2vSnkfXN8aGjPPofTHpGF
 
 Each notebook in the repository is numerically mapped to a specific research paper. You can find the corresponding literature linked in the table below.
 
