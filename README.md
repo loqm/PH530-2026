@@ -23,4 +23,4 @@ Each notebook in the repository is numerically mapped to a specific research pap
 | `9.ipynb` | [Quantum phase-sensitive diffraction and imaging using entangled photons](https://doi.org/10.1073/pnas.1904839116) |
 
 
-## TA and student generated (informal) lecture notes are here: [LMI_notes](https://github.com/loqm/PH530-2026/blob/11fb1dbf1f675fc5239adc9b2be9baa0d5afae8e/LMI_notes.pdf)
+## TA and student generated (informal) lecture notes are here: [LMI_notes](LMI_notes.pdf)
